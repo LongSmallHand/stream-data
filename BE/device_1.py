@@ -1,6 +1,6 @@
+import random
 import time
 import socketio
-import random
 
 sio = socketio.Client()
 
