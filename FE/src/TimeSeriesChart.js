@@ -55,5 +55,3 @@ const TimeSeriesChart = ({ data }) => {
         <svg ref={svgRef} width={900} height={400}></svg>
     );
 };
-
-export default TimeSeriesChart;
